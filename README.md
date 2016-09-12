@@ -1,3 +1,18 @@
-# My Awesome Book
+# Agenda 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+* What is QDK 
+* Download QDK 
+* Install QDK 
+* Build Your Own QPKG 
+  *  Generate environment for QPKG 
+
+  *  Configure QPKG
+
+  *  Customize QPKG routines
+
+  *  Add files to QPKG 
+
+  *  Generate QPKG file
+
+  Learn More 
+
