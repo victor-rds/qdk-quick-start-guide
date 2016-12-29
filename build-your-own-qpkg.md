@@ -18,7 +18,7 @@
 `MyQPKG/ bin/ qdk* scripts/ template/`
 `[/share/HDA_DATA/.qpkg/QDK] # cd MyQPKG/`
 `[/share/HDA_DATA/.qpkg/QDK/MyQPKG] # ls`
-`arm-x09/ arm-x19 arm-x31/ arm-x41/ build/ icons/ qpkg.cfg x86/  config/ package_routines shared/ x86_64/  x86_ce53xx/`
+`arm-x19 arm-x31/ arm-x41/ build/ icons/ qpkg.cfg x86/  config/ package_routines shared/ x86_64/  x86_ce53xx/`
 
 ![](/assets/2016-09-12_145747.png)
 
@@ -80,7 +80,7 @@
 
   * shared\/: Platform-independent files and folders
 
-  * arm-x09\/ arm-x19\/ arm-x31\/ arm-x41\(TS-x31+\)\/ x86\/ x86\_ce53xx\/ x86\_64\/: Platform-dependent files and folders
+  * arm-x19\/ arm-x31\/ arm-x41\(TS-x31+\)\/ x86\/ x86\_ce53xx\/ x86\_64\/: Platform-dependent files and folders
 
   * icons\/: icon files
 
