@@ -2,7 +2,7 @@
 
 ### To download QDK: 
 
-https:\/\/wiki.qnap.com\/wiki\/QPKG\_Development\_Guidelines
+https://www.gitbook.com/book/edhongcy/qdk-qpkg-development-kit/details
 
-http:\/\/download.qnap.com\/QPKG\/QDK\/QDK\_2.2.13.zip
+http://download.qnap.com/QPKG/QDK/QDK_2.2.14.zip
 
