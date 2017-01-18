@@ -5,4 +5,4 @@
 
 * License: GPL 
 
-* GitHub: https://github.com/qnap-dev/QDK
+* GitHub: https://github.com/qnap-dev/QDK 
