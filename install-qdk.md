@@ -1,6 +1,6 @@
 # Install QDK
 
-### Install “QDK\_2.2.15.qpkg” in NAS UI
+### Install “QDK\_2.2.16.qpkg” in NAS UI
 
 ![](/assets/2016-09-12_143300.png)
 
