@@ -8,17 +8,15 @@
 
   * ``# cd `getcfg QDK Install_Path -f /etc/config/qpkg.conf` ``
 
+`# qbuild --create-env MyQPKG`
 
-  `# qbuild --create-env MyQPKG`
+* A folder named “MyQPKG” is then generated  
 
-  * A folder named “MyQPKG” is then generated  
-
-
-`[/share/HDA_DATA/.qpkg/QDK] # ls`
-`MyQPKG/ bin/ qdk* scripts/ template/`
-`[/share/HDA_DATA/.qpkg/QDK] # cd MyQPKG/`
-`[/share/HDA_DATA/.qpkg/QDK/MyQPKG] # ls`
-`arm-x19 arm-x31/ arm-x41/ build/ icons/ qpkg.cfg x86/  config/ package_routines shared/ x86_64/  x86_ce53xx/`
+`[/share/HDA_DATA/.qpkg/QDK] # ls`  
+`MyQPKG/ bin/ qdk* scripts/ template/`  
+`[/share/HDA_DATA/.qpkg/QDK] # cd MyQPKG/`  
+`[/share/HDA`_`DATA/.qpkg/QDK/MyQPKG] # ls  
+  arm_64`_`arm-x19 arm-x31/ arm-x41/ build/ icons/ qpkg.cfg x86/  config/ package_routines shared/ x86_64/  x86_ce53xx/`
 
 ![](/assets/2016-09-12_145747.png)
 
@@ -29,8 +27,6 @@
   * QPKG\_VER: Version of the QPKG
 
   * QPKG\_AUTHOR: Author of the QPKG
-
-
 
 `[/share/HDA_DATA/.qpkg/QDK/MyQPKG] # vi qpkg.cfg`
 
@@ -70,8 +66,6 @@
 
   * Stop : routines when stoping the QPKG
 
-
-
 ![](/assets/2016-09-12_151010.png)
 
 * ### Add files to QPKG
@@ -86,15 +80,11 @@
 
   * config\/: config files
 
-
-
 ![](/assets/2016-09-12_152737.png)
 
 * ### Generate QPKG file
 
   * ### Use below command to build the QPKG file
-
-
 
 `[/share/CACHEDEV1_DATA/.qpkg/QDK/MyQPKG] # qbuild`
 
@@ -106,12 +96,11 @@
 
 * ### The QPKG file will be generated in the build folder
 
+`[/share/CACHEDEV1_DATA/.qpkg/QDK/MyQPKG] # cd build/`
 
-`[/share/CACHEDEV1_DATA/.qpkg/QDK/MyQPKG] # cd build/ `
+`[/share/CACHEDEV1_DATA/.qpkg/QDK/MyQPKG/build] # ls`
 
-`[/share/CACHEDEV1_DATA/.qpkg/QDK/MyQPKG/build] # ls `
-
-`MyQPKG_0.1.qpkg` 
+`MyQPKG_0.1.qpkg`
 
 ![](/assets/2016-09-12_153354.png)
 
