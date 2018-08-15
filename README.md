@@ -1,18 +1,21 @@
-# Agenda 
+# Agenda
 
 * What is QDK 
 * Download QDK 
 * Install QDK 
-* Build Your Own QPKG 
-  *  Generate environment for QPKG 
+* Build Your Own QPKG
 
-  *  Configure QPKG
+  * Generate environment for QPKG
 
-  *  Customize QPKG routines
+  * Configure QPKG
 
-  *  Add files to QPKG 
+  * Customize QPKG routines
 
-  *  Generate QPKG file
+  * Add files to QPKG
 
-  Learn More 
+  * Generate QPKG file
+
+  Learn More
+
+
 
