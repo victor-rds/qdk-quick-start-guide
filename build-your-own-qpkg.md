@@ -95,12 +95,11 @@
 `Creating QPKG package...`
 
 * ### The QPKG file will be generated in the build folder
-
-`[/share/CACHEDEV1_DATA/.qpkg/QDK/MyQPKG] # cd build/`
-
-`[/share/CACHEDEV1_DATA/.qpkg/QDK/MyQPKG/build] # ls`
-
-`MyQPKG_0.1.qpkg`
+```
+[/share/CACHEDEV1_DATA/.qpkg/QDK/MyQPKG] # cd build/
+[/share/CACHEDEV1_DATA/.qpkg/QDK/MyQPKG/build] # ls
+MyQPKG_0.1.qpkg
+```
 
 ![](/assets/2016-09-12_153354.png)
 
