@@ -1,15 +1,6 @@
-# Agenda
+# README
 
-* What is QDK 
-* Download QDK 
-* Install QDK 
-* Build Your Own QPKG
+## QDK Quick Start Guide
 
-  * Generate environment for QPKG
-  * Configure QPKG
-  * Customize QPKG routines
-  * Add files to QPKG
-  * Generate QPKG file
-
-  Learn More
+This is a fork of [**edhongcy/qdk-quick-start-guide**](https://edhongcy.gitbooks.io/qdk-quick-start-guide/content/) legacy GitBook
 
